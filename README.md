@@ -2,15 +2,15 @@
 
 ---
 
-![Alt text]("./assets/css/images/Page1.png")
+![Page 1](https://github.com/ksquarcia2008/Basic-Portfolio/blob/master/assets/images/Page1.png?raw=true)
 
 ---
 
-![Alt text]("./assets/css/images/page2.png")
+![Page 2](https://github.com/ksquarcia2008/Basic-Portfolio/blob/master/assets/images/page2.png?raw=true)
 
 ---
 
-![Alt text]("./assets/css/images/page3.png")
+![Page 3](https://github.com/ksquarcia2008/Basic-Portfolio/blob/master/assets/images/page3.png?raw=true])
 
 ---
 
